@@ -62,7 +62,3 @@ Este é um sistema simples para gerenciamento de clientes, desenvolvido em PHP c
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
